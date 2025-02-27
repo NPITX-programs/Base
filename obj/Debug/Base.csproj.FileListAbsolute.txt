@@ -1,0 +1,9 @@
+H:\Students_Folder\Charlie Hatch\Semesters\Multi-Semester\App Dev\Projects\App Dev 1\base_repo\bin\Debug\Base.exe.config
+H:\Students_Folder\Charlie Hatch\Semesters\Multi-Semester\App Dev\Projects\App Dev 1\base_repo\bin\Debug\Base.exe
+H:\Students_Folder\Charlie Hatch\Semesters\Multi-Semester\App Dev\Projects\App Dev 1\base_repo\bin\Debug\Base.pdb
+H:\Students_Folder\Charlie Hatch\Semesters\Multi-Semester\App Dev\Projects\App Dev 1\base_repo\obj\Debug\Base.csproj.AssemblyReference.cache
+H:\Students_Folder\Charlie Hatch\Semesters\Multi-Semester\App Dev\Projects\App Dev 1\base_repo\obj\Debug\Base.Properties.Resources.resources
+H:\Students_Folder\Charlie Hatch\Semesters\Multi-Semester\App Dev\Projects\App Dev 1\base_repo\obj\Debug\Base.csproj.GenerateResource.cache
+H:\Students_Folder\Charlie Hatch\Semesters\Multi-Semester\App Dev\Projects\App Dev 1\base_repo\obj\Debug\Base.csproj.CoreCompileInputs.cache
+H:\Students_Folder\Charlie Hatch\Semesters\Multi-Semester\App Dev\Projects\App Dev 1\base_repo\obj\Debug\Base.exe
+H:\Students_Folder\Charlie Hatch\Semesters\Multi-Semester\App Dev\Projects\App Dev 1\base_repo\obj\Debug\Base.pdb
